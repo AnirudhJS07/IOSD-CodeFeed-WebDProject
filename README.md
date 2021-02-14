@@ -18,7 +18,7 @@ Almost the entire world was affected by the pandemic in some sort or the other, 
 An Overview of what the project includes:
 - Basic Information about the COVID-19 Pandemic
 - Guidelines by the WHO
-- Giodelines by the Indian Government
+- Guidelines by the Indian Government
 - Demographic statistics
 - Vaccination Statistics
 - List of districts where <100 cases are reported on a daily basis
