@@ -21,7 +21,6 @@ An Overview of what the project includes:
 - Guidelines by the Indian Government
 - Demographic statistics
 - Vaccination Statistics
-- List of districts where <100 cases are reported on a daily basis
 - Real Time Clock with IST (+ 5:30 GMT)
 - FAQs regarding the COVID-19 Pandemic answered by experts
   
