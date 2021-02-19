@@ -19,10 +19,26 @@ An Overview of what the project includes:
 - Basic Information about the COVID-19 Pandemic
 - Guidelines by the WHO
 - Guidelines by the Indian Government
+- A Taskbar that has multiple features like a search bar
 - Demographic statistics
 - Vaccination Statistics
 - Real Time Clock with IST (+ 5:30 GMT)
-- FAQs regarding the COVID-19 Pandemic answered by experts
+- FAQs regarding the COVID-19 Pandemic 
+- Icon of website
+- News in Marquee
+- Developer Information and Social Links
+
+## References
+- Bootstrap
+- W3Schools
+- WHO Website
+- Google Fonts
+- Our World in Data
+- Tech on The Net
+- Medium.com
+- Font Awesome
+- CodePen
+
   
 ## Used Languages
 * HTML
